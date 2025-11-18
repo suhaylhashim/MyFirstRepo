@@ -11,3 +11,4 @@ Academic Goals:
 - Complete all projects on time
 - Participate in class discussions
 - Learn GitHub collaboration workflows
+
