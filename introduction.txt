@@ -1,2 +1,4 @@
+Brief Introduction About Myself
+
 My name is Suhayl Hashim Mohammed, a dedicated Data Engineering student at ALX. I am passionate about innovation, engineering design, and problem-solving—especially when it comes to automation, robotics, and building real-world solutions that make life easier. I enjoy working on impactful student projects, including STEM exhibitions and digital tools like Telegram registration bots that combine software, data automation, and user-friendly design.
 I am committed to continuous learning and self-improvement. In the coming years, I hope to deepen my knowledge in data engineering, back-end development, and smart systems. My goal is to acquire practical, job-ready skills with certifications and eventually contribute to meaningful technological advancements in Ethiopia and beyond.
